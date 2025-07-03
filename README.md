@@ -1,6 +1,6 @@
-# Cloud Classification AI Project ☁️🌦️
+# Cloud Classification demo AI mini  Project ☁️🌦️
 
-This project uses a machine learning model to classify cloud types and predict weather conditions like rain using image data.
+This demo project uses a machine learning model to classify cloud types and predict weather conditions like rain using image data.
 
 ## 📁 Files Included
 - `WM.ipynb`: Original Colab notebook with code, output, and training steps.
