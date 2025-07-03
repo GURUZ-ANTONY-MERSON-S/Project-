@@ -20,5 +20,4 @@ This project uses a machine learning model to classify cloud types and predict w
 - Google Colab
 
 ## 👨‍💻 Author
-Created by: *Your Name Here* (replace in README if you want)
-
+Created by: GURUZ ANTONY MERSON S 
